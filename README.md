@@ -16,7 +16,7 @@ Ensure that you have activated Teams notifications for your account. To do so, c
 
 ## 1 - Download the DALOG Data Platform Teams Notifications app
 
-You'll need to download once the DALOG Data Platform Teams notifications app by clicking [here](https://github.com/DALOG-Diagnosesysteme-GmbH/teams-notifications/releases/tag/v1.0.0). Take note where you downloaded it to, you'll need it in the next step.
+You'll need to download once the DALOG Data Platform Teams notifications app by clicking [here](https://github.com/DALOG-Diagnosesysteme-GmbH/teams-notifications/releases/tag/v1.0.0) and downloading the latest `ddp-teams-x.y.z.zip` file. Take note where you downloaded it to, you'll need it in the next step.
 
 ## 2 - Install the DALOG Data Platform Teams Notifications app
 
